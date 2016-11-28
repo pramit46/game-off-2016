@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MenuButtons">
+			<method name="NewKnot"/>
+			<method name="NewKnot"/>
+			<method name="OpenMenu"/>
+			<method name="Difficulty"/>
+			<method name="CloseMenu"/>
+			<method name="NodeType"/>
+		</type>
+	</assembly>
+</linker>

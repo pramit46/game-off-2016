@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{79700FAA-CE53-1AB3-733B-BE64F8852D57}") = "knotfun", "Assembly-CSharp-firstpass.csproj", "{6B808D16-9D99-4342-EF19-649F8BB0D361}"
+EndProject
+Project("{79700FAA-CE53-1AB3-733B-BE64F8852D57}") = "knotfun", "Assembly-CSharp.csproj", "{5948596A-7E97-BFAE-EC09-380B2538E668}"
+EndProject
+Project("{79700FAA-CE53-1AB3-733B-BE64F8852D57}") = "knotfun", "Assembly-CSharp-Editor.csproj", "{D97FF8F9-FEFC-DA3A-F405-055658065168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B808D16-9D99-4342-EF19-649F8BB0D361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B808D16-9D99-4342-EF19-649F8BB0D361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B808D16-9D99-4342-EF19-649F8BB0D361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B808D16-9D99-4342-EF19-649F8BB0D361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5948596A-7E97-BFAE-EC09-380B2538E668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5948596A-7E97-BFAE-EC09-380B2538E668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5948596A-7E97-BFAE-EC09-380B2538E668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5948596A-7E97-BFAE-EC09-380B2538E668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97FF8F9-FEFC-DA3A-F405-055658065168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97FF8F9-FEFC-DA3A-F405-055658065168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97FF8F9-FEFC-DA3A-F405-055658065168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97FF8F9-FEFC-DA3A-F405-055658065168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
